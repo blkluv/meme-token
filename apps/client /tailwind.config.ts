@@ -19,10 +19,11 @@ const config = {
     },
     extend: {
       colors: {
-        // Add the new colors here
+        // New custom colors
         mint: '#c4ffe2',
         purple: '#a980ff',
         
+        // Existing custom colors
         'custom-green': '#79c600',
         'custom-pink': '#ff71e1',
         'custom-lime': '#deff1a',
